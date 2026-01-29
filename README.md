@@ -119,10 +119,15 @@ To add new tools/technologies:
 
 The notebook generates:
 1. **The Money**: Bar chart of salaries for qualifying roles
+![Salary Comparison](images/image.png)
 2. **The Love**: Bar chart of fit scores showing job compatibility
+![Job Compatibility](images/image-1.png)
 3. **The Effort**: Bar chart of learning gap points (lower is better)
+![Learning Effort](images/image-2.png)
 4. **The Strategy Matrix**: Scatter plot showing effort vs. reward relationship
+![Strategy Matrix](images/image-3.png)
 5. **Final Decision**: Ultimate ranking with best career path highlighted
+![Final Ranking](images/image-4.png)
 
 ## Contributing
 
