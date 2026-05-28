@@ -1,5 +1,8 @@
 # Career Path Analysis Tool
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
+
 A comprehensive Jupyter Notebook for analyzing and comparing different career paths based on multiple criteria to help you find best fit for your skills, preferences, and priorities.
 
 ## Background
@@ -129,6 +132,23 @@ The notebook generates:
 5. **Final Decision**: Ultimate ranking with best career path highlighted
 ![Final Ranking](images/image-4.png)
 
+## Documentation
+
+### [Documentation Hub](docs/README.md)
+Guides and references
+
+### [Quick Start Guide](docs/QUICK_START.md)
+Get started in 5 minutes
+
+### [Guides](docs/guides/)
+- [Career Analysis Guide](docs/guides/career-analysis-guide.md) — Methodology and customization
+
+### [FAQ](docs/FAQ.md)
+Common questions
+
+### [Contributing Guide](CONTRIBUTING.md)
+How to contribute
+
 ## Contributing
 
 Contributions are welcome! Feel free to:
@@ -141,6 +161,11 @@ Contributions are welcome! Feel free to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Support
+
+- [Report Bugs](https://github.com/neardaniel-pls/near-work-analysis/issues/new?template=bug_report.md)
+- [Request Features](https://github.com/neardaniel-pls/near-work-analysis/issues/new?template=feature_request.md)
+
 ## Author
 
 Created as a personal career planning tool after 4 years in Data Engineering, seeking a data-driven approach to career transition.
@@ -149,3 +174,9 @@ Created as a personal career planning tool after 4 years in Data Engineering, se
 
 - Uses [Plotly](https://plotly.com/) for interactive visualizations
 - Uses [pandas](https://pandas.pydata.org/) for data manipulation
+
+## Related Projects
+
+- **[near-investing](https://github.com/neardaniel-pls/near-investing)**: Portfolio analysis and optimization tool
+- **[near-fire-calculator](https://github.com/neardaniel-pls/calculadora-fire)**: FIRE calculator for the Portuguese market
+- **[near-electric](https://github.com/neardaniel-pls/near-electric)**: Electricity consumption analysis
